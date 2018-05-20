@@ -91,9 +91,39 @@ h4 {
 	font-size: 120%;
 }
 
-.img-centered {
-    margin: 0 auto;
+.row {
+  display: flex;
+  align-items: center;
 }
+
+.img-centered {
+    margin:  0 auto;
+}
+
+.desaturate {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+
+.img-vert-centered {
+    vertical-align: middle;
+}
+
+/* .grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: auto auto;
+  grid-gap: 10px;
+  background-color: #2196F3;
+  padding: 10px;
+}
+
+.grid-container>div {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding:20px 0;
+    font-size: 30px;
+  } */
 
 aside.clients {
     padding-top: 150px;
@@ -353,7 +383,7 @@ header #intro-box {
     background-color: rgba(254, 223, 115, 0.7);
     border-radius: 50px;
     filter: alpha(opacity=60);
-    padding: 20px;
+    padding: 5px;
 }
 
 header .intro-text {
@@ -380,7 +410,7 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {    
     header .intro-text {
-        padding-top: 300px;
+        padding-top: 200px;
         padding-bottom: 200px;
     }
 

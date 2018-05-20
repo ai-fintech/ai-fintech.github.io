@@ -1,0 +1,15 @@
+---
+title: Omar U. Florez
+name: Name-5
+subtitle: Senior Research Manager at Capital One
+layout: 2018_default
+modal-id: 1
+img: omar.png
+thumbnail: omar.png
+alt: Picture of Omar U. Florez
+topic: TBA
+description: More Info TBA
+bio: Working on enabling natural conversations between humans and devices.
+website: https://www.linkedin.com/in/omar-u-florez-35338015/
+twitter: https://twitter.com/omaruflorez?lang=en
+---

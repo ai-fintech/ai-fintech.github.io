@@ -7,7 +7,7 @@
                     <h3 class="section-subheading text-muted"></h3>
                 </div>
             </div>
-            <div class="row">
+            <div class="grid-container" style="grid-auto-flow: column;">
             {% for post in site.categories.2018_speakers %}
                 <div class="col-md-4 col-sm-6 speakers-item">
                     <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal">
@@ -16,7 +16,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="../css/2018_style/img/speaker/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                        <img src="../css/2018_style/img/speaker/{{ post.thumbnail }}" class="img-responsive img-centered desaturate" alt="">
                     </a>
                     <div class="speakers-caption">
                         <h4>{{ post.title }}</h4>
