@@ -1,7 +1,7 @@
 ---
 title: Joseph Harrell
 name: Name-3
-subtitle: Partner at Blockchain Research Firm CageChain
+subtitle: CageChain Partner & CoFounder
 layout: 2018_default
 modal-id: 1
 img: JH.jpg
