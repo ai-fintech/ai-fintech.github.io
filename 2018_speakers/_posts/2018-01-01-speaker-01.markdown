@@ -1,7 +1,7 @@
 ---
 title: Joost van der Burgt
 name: Name-1
-subtitle: FinTech Policy Advisor
+subtitle: DNB FinTech Policy Advisor
 layout: 2018_default
 modal-id: 1
 img: Joost-thumb.jpg
