@@ -1,0 +1,13 @@
+---
+title: Joseph Harrell
+name: Name-3
+subtitle: Partner at Blockchain Research Firm CageChain
+layout: 2018_default
+modal-id: 1
+img: JH.jpg
+thumbnail: JH.jpg
+alt: Picture of Joseph Harrell
+topic: TBA
+description: More Info TBA
+bio: Joseph Harrell is a business driver focused on building strong relationships. He has a solid traditional finance background that has led him to become an entrepreneur and professional in the field of financial technologies and investments. Mr. Harrell is Co-Founder of CageChain, a blockchain technology and cryptocurrency research firm. He has been researching financial technologies for a couple years, and authored a paper on the subject. Joseph has a passion to teach others the benefits of blockchain technology and wants to help with industry adoption. He attended Clark Atlanta University, where he earned a BA in Business Administration concentrating in Marketing, and he earned an MBA from California State University, Eastbay. Joseph networks to build strong relationships that help propel his business aspirations. He brings structure, the willingness to win, a team oriented spirit and solid upbringing to either you, or your organization.
+---

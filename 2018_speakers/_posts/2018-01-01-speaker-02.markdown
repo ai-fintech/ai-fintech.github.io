@@ -1,0 +1,15 @@
+---
+title: David Gutierrez
+name: Name-2
+subtitle: Dow Jones DNA Solutions Engineer
+layout: 2018_default
+modal-id: 1
+img: DG.jpeg
+thumbnail: DG.jpeg
+alt: Picture of David Gutierrez
+topic: Detecting Signals in News using Sentiment Analysis around ESG Scoring
+description: More Info Soon
+bio: I’m all about news data and the powerful signals found in it. Be it for sentiment analysis of your mom’s Wall Street-Journal-worthy blueberry pie tech venture, or for modeling supply chain risk; or for designing the next algorithmic investment strategy; or even for just understanding the networked impact of Brexit... or of a future hurricane... or of a president... I build solutions using the world’s most comprehensive premium news cloud API ecosystem - Dow Jones/DNA - Data, News and Analytics Platform.
+website: www.dowjones.com/dna
+twitter:
+---
