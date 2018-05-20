@@ -7,8 +7,9 @@
                     <h3 class="section-subheading text-muted"></h3>
                 </div>
             </div>
-            <div class="grid-container" style="grid-auto-flow: column;">
-            {% for post in site.categories.2018_speakers %}
+            <div class="grid-container">
+            {% assign featuredItems = site.tags.speaker | sort: "featuredOrder" %} 
+            {% for post in featuredItems %}
                 <div class="col-md-4 col-sm-6 speakers-item">
                     <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal">
                         <div class="speakers-hover">

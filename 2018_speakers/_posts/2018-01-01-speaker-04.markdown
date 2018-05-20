@@ -12,4 +12,6 @@ description: More Info TBA
 bio: Kamal Hubbard is a cryptocurrency researcher, blogger, and advisor.  He began his exploration of blockchain technology in 2013 after learning about Bitcoin while conducting research into securities litigation at the Rock Center for Corporate Governance at Stanford University.  Mr. Hubbard went on to steadfastly watch the cryptocurrency markets and its patterns of fraud and losses.  Kamal is a former Mayoral Appointee to the San Francisco Airport Commission’s Office of Social Responsibility and Community Sustainability.  In that position, Mr. Hubbard certified small businesses under the Airport Concession Disadvantaged Business Enterprise (“ACDBE”) program.  Kamal joined CageChain with the dual purpose of shortening the learning curve associated with blockchain technology and quickening wide scale cryptocurrency adoption.  Mr. Hubbard has served as a member of the board of Sustainable San Mateo County and the former Chair of the California Unified Certification Program's ACDBE cluster.  Kamal has served as an advisor to the Tao Music Blockchain (XTO) and is assisting with the upcoming launch of AltMarket, Inc.
 website: http://www.kamalrhubbard.com/
 twitter: https://twitter.com/kamalrhubbard
+tags: [speaker]
+featuredOrder: 4
 ---

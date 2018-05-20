@@ -12,4 +12,6 @@ description: More Info TBA
 bio: Working on enabling natural conversations between humans and devices.
 website: https://www.linkedin.com/in/omar-u-florez-35338015/
 twitter: https://twitter.com/omaruflorez?lang=en
+tags: [speaker]
+featuredOrder: 5
 ---
