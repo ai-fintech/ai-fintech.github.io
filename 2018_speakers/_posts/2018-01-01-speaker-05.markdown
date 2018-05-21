@@ -9,7 +9,7 @@ thumbnail: omar.png
 alt: Picture of Omar U. Florez
 topic: TBA
 description: More Info TBA
-bio: Working on enabling natural conversations between humans and devices.
+bio: Dr. Omar U. Florez is a Senior Research Manager at Capital One developing deep reinforcement learning algorithms to enable natural dialogues with customers and their context. Formerly he was a Research Scientist at Intel Labs in the Anticipatory Computing Lab. He is a recipient of an Innovation Award on Large-Scale Analytics by IBM Research in 2010 and currently leads the research committee of LatinX in AI (http://www.latinxinai.org/), a coalition which goal is to raise awareness of the long and short term effects of artificial intelligence technology on the LatinX community. Omar’s interests cover deep learning for multimedia data and and Bayesian reasoning for interpretation.
 website: https://www.linkedin.com/in/omar-u-florez-35338015/
 twitter: https://twitter.com/omaruflorez?lang=en
 tags: [speaker]
