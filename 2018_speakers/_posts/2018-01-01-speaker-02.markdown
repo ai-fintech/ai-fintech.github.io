@@ -9,9 +9,14 @@ thumbnail: DG.jpeg
 alt: Picture of David Gutierrez
 topic: Detecting Signals in News using Sentiment Analysis around ESG Scoring
 description: More Info Soon
-bio: I’m all about news data and the powerful signals found in it. Be it for sentiment analysis of your mom’s Wall Street-Journal-worthy blueberry pie tech venture, or for modeling supply chain risk; or for designing the next algorithmic investment strategy; or even for just understanding the networked impact of Brexit... or of a future hurricane... or of a president... I build solutions using the world’s most comprehensive premium news cloud API ecosystem - Dow Jones/DNA - Data, News and Analytics Platform.
+bio: David Gutierrez is an experienced solutions architect and sales engineer passionate about the intersection of data analytics, data science, and beautiful UI/UX. After 10 years in advanced network analytics in the telecom domain, he moved into deriving signals from news events. 
+
+Be it for sentiment analysis of your mom’s Wall Street-Journal-worthy blueberry pie tech venture, or for modeling supply chain risk; or for designing the next algorithmic investment strategy; or even for just understanding the networked impact of Brexit... or of a future hurricane... or of a president... David now builds solutions using the world’s most comprehensive premium news cloud API ecosystem - Dow Jones/DNA - Data, News and Analytics Platform. He likes Catboost, Tensorflow and LDA for breakfast. Even if extroverted, he needs some Spacy from time to time. And in the evenings he enjoys reading about NLP and graphDBs while playing neo-funk on his bass guitar surrounded by international literature books.
+
+He has an Electrical and Mechanical Engineering degrees with Mathematics and Physics minors from John Brown University, where he attended under the full-ride Walton Scholarship program.
+He lives in NYC with his entrepreneur wife and two cats that do not boost.
 website: www.dowjones.com/dna
-twitter:
+twitter: https://twitter.com/datamuscle
 tags: [speaker]
 featuredOrder: 2
 ---
