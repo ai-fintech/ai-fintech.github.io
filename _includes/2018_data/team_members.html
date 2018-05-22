@@ -8,9 +8,8 @@
                 </div>
             </div>
             <div class="row">
-            <p>test</p>
-            {% for post in site.categories.2018_teams %}
-            <p>testing</p>
+            {% assign featuredItems = site.tags.lead | sort: "leadOrder" %} 
+            {% for post in featuredItems %}
                 <div class="col-md-4 col-sm-6 speakers-item">
                     <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal">
                         <div class="speakers-hover">
@@ -26,7 +25,6 @@
                     </div>
                 </div>
             {% endfor %}
-            <p>test2</p>
             </div>
         </div>
     </section>
