@@ -10,6 +10,7 @@ alt: Joost van der Burgt
 topic: AI and Data Financial Policy Workshop
 description: TBA
 bio: Joost van der Burgt is a policy advisor on fintech and international banking regulation at the Dutch National Bank (DNB), the central bank of the Netherlands. Until recently he as seconded to the federal Reserve Bank of San Francisco to work as part of the Fed’s fintech team. Joost is DNB’s representative in the Basel Committee’s Taskforce on Financial Technology. In the four years before his work at DNB, Joost worked in the Strategy and Risk analysis department at the Dutch Financial Markets Authority (AFM), where he also focused on fintech and the implications of technological innovation for the financial sector. Joost has a bachelor degree in business studies, and master degrees in risk management and political philosophy.
+social: {Twitter: "", Website: "", Linkedin: "https://www.linkedin.com/in/jvdburgt/" }
 website: https://www.linkedin.com/in/jvdburgt/
 twitter:
 tags: [speaker]
