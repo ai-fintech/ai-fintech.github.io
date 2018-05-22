@@ -8,8 +8,6 @@
     {% endcapture %}
     {{ criticalcss | scssify }}
   </style>
-  
-  {% include /2018_data/js.html %}
   {% include /2018_data/head.html %}
 
   <body>
@@ -17,4 +15,5 @@
         {{ content }}
   </body>
   {% include /2018_data/footer.html %}
+  {% include /2018_data/js.html %}
 </html>
