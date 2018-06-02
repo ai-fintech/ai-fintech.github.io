@@ -40,6 +40,19 @@ body {
   }
 }
 
+.agenda, .agenda tr, .agenda th, .agenda td {
+    border: none;
+    padding: 10px;
+}
+
+.agenda img {
+    border-radius: 60px; 
+    max-height: 300px; 
+    width:auto;
+    max-width: 250px;
+}
+
+
 .text-muted {
     color: #{{ site.data.template.color.muted }};
 }
