@@ -480,12 +480,13 @@ section h3.section-subheading {
     opacity: 0;
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
-    transition: all ease .5s;
+    transition: transform .2s; /* Animation */
     background: #3cb371;
 }
 
 #speakers .speakers-item .speakers-link .speakers-hover:hover {
-    opacity: 1;
+    opacity: .25;
+    transform: scale(1.1);
 }
 
 #speakers .speakers-item .speakers-link .speakers-hover .speakers-hover-content {
