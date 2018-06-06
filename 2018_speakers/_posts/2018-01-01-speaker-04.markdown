@@ -1,5 +1,5 @@
 ---
-title: Kamal Hubbard
+title: Kamal Hubbard, JD
 name: Name-4
 subtitle: CageChain Researcher & CoFounder
 layout: 2018_default

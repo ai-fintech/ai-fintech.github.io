@@ -1,5 +1,5 @@
 ---
-title: Joseph Harrell
+title: Joseph Harrell, MBA
 name: Name-3
 subtitle: CageChain Partner & CoFounder
 layout: 2018_default
