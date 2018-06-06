@@ -1,5 +1,5 @@
 ---
-title: Joost van der Burgt
+title: Joost van der Burgt, MA MSc
 name: Name-1
 subtitle: DNB FinTech Policy Advisor
 layout: 2018_default
