@@ -360,7 +360,7 @@ fieldset[disabled] .btn-xl.active {
     background-color: transparent;
 }
 
-.navbar-nav a:hover .nav-drop {
+.nav a:hover .nav-drop {
     display: block;
 }
 
