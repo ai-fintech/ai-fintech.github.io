@@ -335,8 +335,11 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
-.nav-drop {
+.navbar-default .navbar-nav .nav-content{
     display: none;
+}
+
+.nav-drop {
     position: absolute;
     background-color: transparent;
     min-width: 160px;
@@ -360,7 +363,7 @@ fieldset[disabled] .btn-xl.active {
     background-color: transparent;
 }
 
-.nav a:hover .nav-drop {
+.page-scroll:hover ~ .nav-content{
     display: block;
 }
 
