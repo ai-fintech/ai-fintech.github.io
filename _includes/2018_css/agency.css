@@ -335,18 +335,22 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
-.nav-drop {
+.navbar-default .navbar-nav .nav-content{
     display: none;
+}
+
+.nav-drop {
     position: absolute;
     background-color: transparent;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
     list-style: none;
+    text-align: left;
 }
 
 .nav-drop a {
-    float: none;
+    float: left;
     color: black;
     padding: 12px 16px;
     text-decoration: none;
@@ -360,7 +364,11 @@ fieldset[disabled] .btn-xl.active {
     background-color: transparent;
 }
 
-.nav a:hover .nav-drop {
+.page-scroll:hover ~ .nav-content{
+    display: block;
+}
+
+.page-scroll:focus ~ .nav-content{
     display: block;
 }
 
@@ -393,6 +401,10 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
+    }
+
+    .navbar-default.navbar-shrink>div>div>ul>li>.nav-content>.nav-drop{
+        background-color: #222;
     }
 }
 
