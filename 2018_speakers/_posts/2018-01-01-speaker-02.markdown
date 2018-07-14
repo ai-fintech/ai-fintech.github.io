@@ -13,6 +13,9 @@ bio: David Gutierrez is an experienced solutions architect and sales engineer pa
 social: {Twitter: "", Website: "", Linkedin: "" }
 website: https://www.dowjones.com/dna
 twitter: https://twitter.com/datamuscle
-tags: [speaker]
+tags: [speaker, event]
 featuredOrder: 2
+heading: Research & Engineering
+start: "13:00"
+end: "13:30"
 ---

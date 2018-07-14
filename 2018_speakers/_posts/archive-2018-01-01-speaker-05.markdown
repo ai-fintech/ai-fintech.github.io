@@ -14,5 +14,5 @@ social: {Twitter: "", Website: "", Linkedin: "" }
 website: https://www.linkedin.com/in/omar-u-florez-35338015/
 twitter: https://twitter.com/omaruflorez?lang=en
 tags: [speaker]
-featuredOrder: 5
+featuredOrder: 
 ---

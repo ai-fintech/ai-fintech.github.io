@@ -1,0 +1,8 @@
+{% assign featuredItems = site.tags.event %}
+<div class="event-info">
+    {% for post in featuredItems%}
+        {% if post.description %}
+            <div>{{post.description}}</div>
+        {% endif %}
+    {% endfor %}
+</div>
