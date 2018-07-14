@@ -58,6 +58,7 @@
         .cd-schedule {
           position: relative;
           margin: 2em 0;
+          overflow-y:scroll;
         }
         
         .cd-schedule::before {
@@ -191,6 +192,8 @@
           margin-right: 20px;
           -webkit-transition: opacity .2s, background .2s;
           transition: opacity .2s, background .2s;
+          overflow: hidden;
+          overflow-y: scroll;
         }
         
         .cd-schedule .events .single-event:last-of-type {
