@@ -683,7 +683,7 @@
                                         <div class="top-info"><span>General</span></div>
                                         <ul>
                                             {% for post in featuredItems%}
-                                                {% if post.heading == "General" %}
+                                                {% if post.heading contains "General" %}
                                                     <li class="single-event" data-start="{{post.start}}" data-end="{{post.end}}" data-content="event-info" data-event="event-1">
                                                             <a href="#0">
                                                                 <em class="event-name">{{post.topic}}</em>
@@ -697,7 +697,7 @@
                                 <div class="top-info"><span>AI Fintech</span></div>
                                 <ul>
                                     {% for post in featuredItems%}
-                                        {% if post.heading == "AI Fintech" %}
+                                        {% if post.heading contains "AI Fintech" %}
                                             <li class="single-event" data-start="{{post.start}}" data-end="{{post.end}}" data-content="event-info" data-event="event-3">
                                                     <a href="#0">
                                                         <em class="event-name">{{ post.topic }}</em>
@@ -710,7 +710,7 @@
                                 <div class="top-info"><span>Research & Engineering</span></div>
                                 <ul>
                                     {% for post in featuredItems%}
-                                        {% if post.heading == "Research & Engineering" %}
+                                        {% if post.heading contains "Research & Engineering" %}
                                             <li class="single-event" data-start="{{post.start}}" data-end="{{post.end}}" data-content="event-info" data-event="event-2">
                                                     <a href="#0">
                                                         <em class="event-name">{{ post.topic }}</em>
@@ -724,7 +724,7 @@
                                 <div class="top-info"><span>Cryptocurrencies</span></div>
                                 <ul>
                                     {% for post in featuredItems%}
-                                        {% if post.heading == "Cryptocurrencies" %}
+                                        {% if post.heading contains "Cryptocurrencies" %}
                                             <li class="single-event" data-start="{{post.start}}" data-end="{{post.end}}" data-content="event-info" data-event="event-4">
                                                     <a href="#0">
                                                         <em class="event-name">{{ post.topic }}</em>
