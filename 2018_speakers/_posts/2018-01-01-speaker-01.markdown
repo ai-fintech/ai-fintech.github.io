@@ -13,6 +13,9 @@ bio: Joost van der Burgt is a policy advisor on fintech and international bankin
 social: {Twitter: "", Website: "", Linkedin: "https://www.linkedin.com/in/jvdburgt/" }
 website: https://www.linkedin.com/in/jvdburgt/
 twitter:
-tags: [speaker]
+tags: [speaker, event]
 featuredOrder: 1
+heading: AI Fintech
+start: "10:30"
+end: "11:30"
 ---
