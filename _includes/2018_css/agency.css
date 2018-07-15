@@ -131,6 +131,7 @@ h4 {
 aside.clients {
     padding-top: 150px;
     padding-bottom: 100px;
+    overflow: hidden;
 }
 
 aside.clients,
