@@ -1,6 +1,6 @@
 ---
 title: TBA
-name: Name-6
+name: 
 subtitle: TBA
 layout: 2018_default
 modal-id: 1

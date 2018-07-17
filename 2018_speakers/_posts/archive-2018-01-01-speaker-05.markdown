@@ -1,6 +1,6 @@
 ---
 title: Omar U. Florez, PhD
-name: Name-5
+name: 
 subtitle: Capital One Senior Research Manager
 layout: 2018_default
 modal-id: 1

@@ -1,6 +1,6 @@
 ---
 title: Ian Weisberger
-name: Name-15
+name: 
 subtitle: CoinRoutes CTO
 layout: 2018_default
 modal-id: 1
